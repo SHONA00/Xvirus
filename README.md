@@ -9,7 +9,7 @@
   <a href="https://www.python.org">
     <img src="https://img.shields.io/badge/Python-3.9-informational.svg">
   </a>
-  <a href="https://github.com/Xvirus0/Xvirus-Tools">
+  <a href="https://github.com/SHONA00/Xvirus">
     <img src="https://img.shields.io/badge/covarage-70%25-yellow">
   </a>
   <a href="https://github.com/Xvirus0/">
@@ -36,11 +36,11 @@ By using Xvirus, you agree that you hold responsibility and accountability of an
 ## How to install 
  clone the repository: 
 ```shell
-git clone --recursive https://github.com/SHONA00/X-virus.git
+git clone --recursive https://github.com/SHONA00/Xvirus.git
 ```
 Then enter the directory:
 ```shell
-cd Xvirus-Tools
+cd Xvirus
 ```
 Finally just run Setup.bat and wait for it to complete.
 
